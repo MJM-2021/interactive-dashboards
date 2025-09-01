@@ -1,0 +1,2 @@
+altair
+jupyter_bokeh
