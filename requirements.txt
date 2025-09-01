@@ -1,2 +1,1 @@
 altair
-jupyter_bokeh
