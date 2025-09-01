@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Stock Panel Dashboard 📊
 
 This repository contains a Jupyter Notebook for exploring, analyzing, and visualizing stock market data in a panel-style dashboard.
@@ -13,3 +14,6 @@ Install dependencies with:
 ```bash
 pip install -r requirements.txt
 
+=======
+# interactive-dashboards
+>>>>>>> 37de4ea221ad816736904fb8c54f72607d371ed5
